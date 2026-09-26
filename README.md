@@ -61,7 +61,7 @@ In the first step, data was cleaned using multiple Pandas functions:
 
 ## 📊 Basic Statistics & Aggregations
 
-Using `describe()`, key statistical details were extracted for each numeric column.
+Statistical Details:
 
 ### 🏆 Top 5 Countries by Population
 
