@@ -119,7 +119,7 @@ Using `describe()`, key statistical details were extracted for each numeric colu
 
 ### 1. HDI & Internet Users Distribution
 
-![HDI and Internet Users Distribution](hdi_and_pct_of_internet_user.png)
+![HDI and Internet Users Distribution](images/hdi_and_pct_of_internet_user.png)
 
 #### 🔍 HDI Distribution (Left Chart)
 - HDI values range from **~0.39 to ~0.97**, spanning low to very high human development.
@@ -138,7 +138,7 @@ Using `describe()`, key statistical details were extracted for each numeric colu
 
 ### 2. Population vs External Debt
 
-![Population vs External Debt](population_debt.png)
+![Population vs External Debt](images/population_debt.png)
 
 - **No strong correlation** (Pearson `corr ≈ 0.24`) between population and external debt.
 - Smaller countries (Austria, Norway) can carry **higher absolute debt** than more populous nations.
@@ -154,7 +154,7 @@ Using `describe()`, key statistical details were extracted for each numeric colu
 
 The lollipop chart below shows India's rank across **11 global indicators** — a lower rank number means a better standing:
 
-![India's Global Ranks](india_rank_at_global.png)
+![India's Global Ranks](images/india_rank_at_global.png)
 
 - 🥇 **#1** — Population & % of World Population
 - 🌍 **#7** — Total Area & Land Area
@@ -168,7 +168,7 @@ The lollipop chart below shows India's rank across **11 global indicators** — 
 
 ### 2. Land vs Water Area Distribution
 
-![Land vs Water Area Distribution of India](land_water_area.png)
+![Land vs Water Area Distribution of India](images/land_water_area.png)
 
 - **🌊 Water Area — 9.55%**
   India's water coverage is relatively **low** compared to its massive population, industrial demand, and agricultural needs.
@@ -182,7 +182,7 @@ The lollipop chart below shows India's rank across **11 global indicators** — 
 
 ### 3. BRICS Population & Density Comparison
 
-![BRICS Nations Population and Density](brics_nations.png)
+![BRICS Nations Population and Density](images/brics_nations.png)
 
 #### 🔍 Population Ranking (Left Chart)
 - 🇮🇳 **India (#1)** and 🇨🇳 **China (#2)** dominate BRICS — together accounting for **over 2.8 billion people** (nearly **35% of the world's population**).
@@ -205,7 +205,7 @@ The lollipop chart below shows India's rank across **11 global indicators** — 
 
 ### 4. BRICS Per Capita External Debt
 
-![BRICS Nations Per Capita Debt](brics_nations_per_capita_debt.png)
+![BRICS Nations Per Capita Debt](images/brics_nations_per_capita_debt.png)
 
 India is highlighted in **blue** for emphasis.
 
