@@ -67,51 +67,51 @@ Statistical Details:
 
 | index | Country name | Population |
 |------:|--------------|-----------:|
-| 6 | 🇮🇳 India | 1,429,404,000.00 |
+| 1 | 🇮🇳 India | 1,429,404,000.00 |
 | 2 | 🇨🇳 China | 1,404,890,000.00 |
 | 3 | 🇺🇸 United States | 341,784,857.00 |
-| 13 | 🇮🇩 Indonesia | 288,315,089.00 |
-| 32 | 🇵🇰 Pakistan | 241,499,431.00 |
+| 4 | 🇮🇩 Indonesia | 288,315,089.00 |
+| 5 | 🇵🇰 Pakistan | 241,499,431.00 |
 
 ### 📉 Bottom 5 Countries by Population
 
 | index | Country name | Population |
 |------:|--------------|-----------:|
-| 0 | 🇻🇦 Vatican City | 882.00 |
-| 1 | 🇹🇻 Tuvalu | 10,643.00 |
-| 2 | 🇳🇷 Nauru | 11,680.00 |
-| 3 | 🇵🇼 Palau | 16,733.00 |
-| 4 | 🇸🇲 San Marino | 34,167.00 |
+| 1 | 🇻🇦 Vatican City | 882.00 |
+| 2 | 🇹🇻 Tuvalu | 10,643.00 |
+| 3 | 🇳🇷 Nauru | 11,680.00 |
+| 4 | 🇵🇼 Palau | 16,733.00 |
+| 5 | 🇸🇲 San Marino | 34,167.00 |
 
 ### 🥇 Top 5 Countries by HDI
 
 | index | Country name | HDI |
 |------:|--------------|----:|
-| 105 | 🇮🇸 Iceland | 0.97 |
-| 60 | 🇳🇴 Norway | 0.97 |
-| 131 | 🇨🇭 Switzerland | 0.97 |
-| 129 | 🇩🇰 Denmark | 0.96 |
-| 54 | 🇸🇪 Sweden | 0.96 |
+| 1 | 🇮🇸 Iceland | 0.97 |
+| 2 | 🇳🇴 Norway | 0.97 |
+| 3 | 🇨🇭 Switzerland | 0.97 |
+| 4 | 🇩🇰 Denmark | 0.96 |
+| 5 | 🇸🇪 Sweden | 0.96 |
 
 ### 🥉 Bottom 5 Countries by HDI
 
 | index | Country name | HDI |
 |------:|--------------|----:|
-| 40 | 🇸🇸 South Sudan | 0.39 |
-| 42 | 🇸🇴 Somalia | 0.40 |
-| 43 | 🇨🇫 Central African Republic | 0.41 |
-| 19 | 🇹🇩 Chad | 0.42 |
-| 20 | 🇳🇪 Niger | 0.42 |
+| 1 | 🇸🇸 South Sudan | 0.39 |
+| 2 | 🇸🇴 Somalia | 0.40 |
+| 3 | 🇨🇫 Central African Republic | 0.41 |
+| 4 | 🇹🇩 Chad | 0.42 |
+| 5 | 🇳🇪 Niger | 0.42 |
 
 ### 💰 Top 5 Countries by External Debt (Billions)
 
 | index | Country name | External Debt (B USD) |
 |------:|--------------|----------------------:|
-| 112 | 🇦🇹 Austria | 937.31 |
-| 12 | 🇲🇽 Mexico | 880.00 |
-| 60 | 🇳🇴 Norway | 875.60 |
-| 106 | 🇰🇷 South Korea | 774.39 |
-| 6 | 🇮🇳 India | 762.77 |
+| 1 | 🇦🇹 Austria | 937.31 |
+| 2 | 🇲🇽 Mexico | 880.00 |
+| 3 | 🇳🇴 Norway | 875.60 |
+| 4 | 🇰🇷 South Korea | 774.39 |
+| 5 | 🇮🇳 India | 762.77 |
 
 ---
 
